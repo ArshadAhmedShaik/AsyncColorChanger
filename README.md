@@ -32,8 +32,4 @@ Or if you use VS Code, install the "Live Server" extension and click "Go Live" t
 - No build steps or dependencies required — this is plain HTML/CSS/JS.
 - Works entirely in the browser.
 
-## License
-This repository contains example/demo code — add a license file if you need one.
 
-## Author
-Created by the project owner.
