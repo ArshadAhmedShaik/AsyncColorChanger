@@ -1,0 +1,53 @@
+body {
+    background-color: rgba(1, 1, 1, 0.9);
+}
+
+h1 {
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3.5rem;
+    text-align: center;
+    color: bisque;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+h1:hover {
+    transform: scale(0.98);
+}
+
+div {
+    background-color: white;
+    height: 30rem;
+    width: 30rem;
+    border-radius: 1rem;
+    margin: 0 auto;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+div:hover {
+    transform: scale(0.98);
+}
+
+button {
+    height: 3rem;
+    display: block;
+    width: 7rem;
+    margin: 0 auto;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    font-style: normal;
+    background-color: bisque;
+    transition: 0.2s;
+}
+
+button:active {
+    transform: scale(0.9);
+    color: red;
+}
